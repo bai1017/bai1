@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\c\通讯录2\通讯录2\test.cpp(2,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\c\通讯录2\通讯录2\test.cpp(1,1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  contact.cpp
+  正在生成代码...
+  通讯录2.vcxproj -> D:\c\通讯录2\x64\Debug\通讯录2.exe
